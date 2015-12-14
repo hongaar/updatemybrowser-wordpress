@@ -7,10 +7,10 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Include the Update my Browser (https://updatemybrowser.org) widget on your site. This widget detects the current browser of your visitors and checks if it is up to date.
+Include the Update my Browser (https://updatemybrowser.org) widget on your site. This widget detects the current browser version of your visitors, checks if it is up to date and displays a subtle notification bar if it's outdated.
 
 == Description ==
-Include the Update my Browser (https://updatemybrowser.org) widget on your site. This widget detects the current browser of your visitors and checks if it is up to date.
+Include the Update my Browser (https://updatemybrowser.org) widget on your site. This widget detects the current browser version of your visitors, checks if it is up to date and displays a subtle notification bar if it's outdated.
 
 == Installation ==
 1. Upload the zipped file to yoursite/wp-content/plugins

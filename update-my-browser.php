@@ -6,7 +6,7 @@
 /*
 Plugin Name:    Update my Browser
 Plugin URI:     http://wordpress.org/plugins/update-my-browser/
-Description:    Include the Update my Browser (https://updatemybrowser.org) widget on your site. This widget detects the current browser of your visitors and checks if it is up to date.
+Description:    Include the Update my Browser (https://updatemybrowser.org) widget on your site. This widget detects the current browser version of your visitors, checks if it is up to date and displays a subtle notification bar if it's outdated.
 Author:         Joram van den Boezem
 Version:        1.0.0
 Author URI:     http://joram.vandenboezem.nl/
